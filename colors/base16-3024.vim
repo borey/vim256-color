@@ -1,1 +1,0 @@
-.././submodules/base16-vim/colors/base16-3024.vim
