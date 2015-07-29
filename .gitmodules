@@ -238,9 +238,6 @@
 [submodule "submodules/BusyBee"]
 	path = submodules/BusyBee
 	url = https://github.com/vim-scripts/BusyBee.git
-[submodule "submodules/C64.vim"]
-	path = submodules/C64.vim
-	url = https://github.com/vim-scripts/C64.vim.git
 [submodule "submodules/ingretu"]
 	path = submodules/ingretu
 	url = https://github.com/gmarik/ingretu.git
