@@ -1,9 +1,6 @@
 [submodule "submodules/256-grayvim"]
 	path = submodules/256-grayvim
 	url = https://github.com/vim-scripts/256-grayvim.git
-[submodule "submodules/256-jungle"]
-	path = submodules/256-jungle
-	url = https://github.com/vim-scripts/256-jungle.git
 [submodule "submodules/beauty256"]
 	path = submodules/beauty256
 	url = https://github.com/vim-scripts/beauty256.git
@@ -181,9 +178,6 @@
 [submodule "submodules/heroku-colorscheme"]
 	path = submodules/heroku-colorscheme
 	url = https://github.com/stulzer/heroku-colorscheme.git
-[submodule "submodules/vim-colors_atelier-schemes"]
-	path = submodules/vim-colors_atelier-schemes
-	url = https://github.com/atelierbram/vim-colors_atelier-schemes.git
 [submodule "submodules/mushroom"]
 	path = submodules/mushroom
 	url = https://github.com/mtglsk/mushroom.git
