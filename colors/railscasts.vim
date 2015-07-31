@@ -1,1 +1,1 @@
-.././submodules/vim-railscasts/colors/railscasts.vim
+.././submodules/vim-railscasts-theme/colors/railscasts.vim

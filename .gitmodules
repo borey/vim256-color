@@ -1,9 +1,6 @@
 [submodule "submodules/256-grayvim"]
 	path = submodules/256-grayvim
 	url = https://github.com/vim-scripts/256-grayvim.git
-[submodule "submodules/beauty256"]
-	path = submodules/beauty256
-	url = https://github.com/vim-scripts/beauty256.git
 [submodule "submodules/blacklight"]
 	path = submodules/blacklight
 	url = https://github.com/vim-scripts/blacklight.git
@@ -184,9 +181,6 @@
 [submodule "submodules/vim-monochrome"]
 	path = submodules/vim-monochrome
 	url = https://github.com/fxn/vim-monochrome.git
-[submodule "submodules/vim-railscasts"]
-	path = submodules/vim-railscasts
-	url = https://github.com/justincampbell/vim-railscasts.git
 [submodule "submodules/beekai"]
 	path = submodules/beekai
 	url = https://github.com/stephanedemotte/beekai.git
@@ -259,3 +253,6 @@
 [submodule "submodules/vim-tomorrow-theme"]
 	path = submodules/vim-tomorrow-theme
 	url = https://github.com/chriskempson/vim-tomorrow-theme
+[submodule "submodules/vim-railscasts-theme"]
+	path = submodules/vim-railscasts-theme
+	url = git@github.com:jpo/vim-railscasts-theme.git
