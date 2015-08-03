@@ -64,9 +64,6 @@
 [submodule "submodules/molokai"]
 	path = submodules/molokai
 	url = https://github.com/tomasr/molokai.git
-[submodule "submodules/miko"]
-	path = submodules/miko
-	url = https://github.com/vim-scripts/miko.git
 [submodule "submodules/southernlights"]
 	path = submodules/southernlights
 	url = https://github.com/vim-scripts/southernlights.git
@@ -115,9 +112,6 @@
 [submodule "submodules/fu"]
 	path = submodules/fu
 	url = https://github.com/noah/fu.git
-[submodule "submodules/crt"]
-	path = submodules/crt
-	url = https://github.com/vim-scripts/crt.vim.git
 [submodule "submodules/colorful256"]
 	path = submodules/colorful256
 	url = https://github.com/vim-scripts/colorful256.vim.git
@@ -208,9 +202,6 @@
 [submodule "submodules/vim-babymate256"]
 	path = submodules/vim-babymate256
 	url = https://github.com/baverman/vim-babymate256.git
-[submodule "submodules/vim-hemisu"]
-	path = submodules/vim-hemisu
-	url = https://github.com/noahfrederick/vim-hemisu.git
 [submodule "submodules/vim-getafe"]
 	path = submodules/vim-getafe
 	url = https://github.com/larssmit/vim-getafe.git
