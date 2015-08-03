@@ -1,1 +1,0 @@
-.././submodules/seoul256/colors/seoul256-light.vim

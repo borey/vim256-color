@@ -25,12 +25,7 @@
 [submodule "submodules/lilypink"]
 	path = submodules/lilypink
 	url = https://github.com/vim-scripts/lilypink.git
-[submodule "submodules/pink"]
-	path = submodules/pink
 	url = https://github.com/vim-scripts/pink.git
-[submodule "submodules/peaksea"]
-	path = submodules/peaksea
-	url = https://github.com/vim-scripts/peaksea.git
 [submodule "submodules/mrkn256.vim"]
 	path = submodules/mrkn256.vim
 	url = https://github.com/mrkn/mrkn256.vim.git
@@ -43,24 +38,9 @@
 [submodule "submodules/rdark-terminal"]
 	path = submodules/rdark-terminal
 	url = https://github.com/vim-scripts/rdark-terminal.git
-[submodule "submodules/strange"]
-	path = submodules/strange
-	url = https://github.com/vim-scripts/strange.git
-[submodule "submodules/synic.vim"]
-	path = submodules/synic.vim
-	url = https://github.com/vim-scripts/synic.vim.git
-[submodule "submodules/tabula.vim"]
-	path = submodules/tabula.vim
-	url = https://github.com/vim-scripts/tabula.vim.git
 [submodule "submodules/tchaba"]
 	path = submodules/tchaba
 	url = https://github.com/vim-scripts/tchaba.git
-[submodule "submodules/tir_black"]
-	path = submodules/tir_black
-	url = https://github.com/vim-scripts/tir_black.git
-[submodule "submodules/vilight.vim"]
-	path = submodules/vilight.vim
-	url = https://github.com/vim-scripts/vilight.vim.git
 [submodule "submodules/wombat256"]
 	path = submodules/wombat256
 	url = https://github.com/vim-scripts/wombat256.vim.git
@@ -70,9 +50,6 @@
 [submodule "submodules/badwolf"]
 	path = submodules/badwolf
 	url = https://github.com/sjl/badwolf.git
-[submodule "submodules/Simple256"]
-	path = submodules/Simple256
-	url = https://github.com/vim-scripts/Simple256.git
 [submodule "submodules/fu"]
 	path = submodules/fu
 	url = https://github.com/noah/fu.git
@@ -85,9 +62,6 @@
 [submodule "submodules/vim-distinguished"]
 	path = submodules/vim-distinguished
 	url = https://github.com/Lokaltog/vim-distinguished.git
-[submodule "submodules/seoul256"]
-	path = submodules/seoul256
-	url = https://github.com/junegunn/seoul256.vim.git
 [submodule "submodules/flattown"]
 	path = submodules/flattown
 	url = https://github.com/blerins/flattown.git
@@ -100,15 +74,9 @@
 [submodule "submodules/mushroom"]
 	path = submodules/mushroom
 	url = https://github.com/mtglsk/mushroom.git
-[submodule "submodules/vim-monochrome"]
-	path = submodules/vim-monochrome
-	url = https://github.com/fxn/vim-monochrome.git
 [submodule "submodules/feral-vim"]
 	path = submodules/feral-vim
 	url = https://github.com/jedverity/feral-vim.git
-[submodule "submodules/vim-phoenix"]
-	path = submodules/vim-phoenix
-	url = https://github.com/widatama/vim-phoenix.git
 [submodule "submodules/oxeded.vim"]
 	path = submodules/oxeded.vim
 	url = https://github.com/queyenth/oxeded.vim.git
