@@ -1,1 +1,0 @@
-.././submodules/vim-monochrome/colors/monochrome.vim

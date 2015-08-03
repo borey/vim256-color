@@ -1,1 +1,0 @@
-.././submodules/codeschool-vim-theme/colors/codeschool.vim

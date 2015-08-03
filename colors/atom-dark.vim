@@ -1,1 +1,0 @@
-.././submodules/vim-atom-dark/colors/atom-dark.vim

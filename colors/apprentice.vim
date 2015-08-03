@@ -1,1 +1,0 @@
-.././submodules/Apprentice/colors/apprentice.vim

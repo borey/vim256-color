@@ -1,1 +1,0 @@
-.././submodules/vim-colorscheme-darcula/colors/darcula.vim

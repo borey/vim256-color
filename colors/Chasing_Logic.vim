@@ -1,1 +1,0 @@
-.././submodules/ChasingLogic-colorscheme-vim/colors/Chasing_Logic.vim
