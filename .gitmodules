@@ -49,3 +49,6 @@
 [submodule "submodules/vim-railscasts-theme"]
 	path = submodules/vim-railscasts-theme
 	url = git@github.com:jpo/vim-railscasts-theme.git
+[submodule "submodules/material.vim"]
+	path = submodules/material.vim
+	url = git@github.com:jscappini/material.vim.git
