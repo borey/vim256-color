@@ -55,3 +55,12 @@
 [submodule "submodules/vim-hybrid-material"]
 	path = submodules/vim-hybrid-material
 	url = https://github.com/kristijanhusak/vim-hybrid-material.git
+[submodule "submodules/nova.vim"]
+	path = submodules/nova.vim
+	url = https://github.com/zanglg/nova.vim.git
+[submodule "submodules/vim-monokai"]
+	path = submodules/vim-monokai
+	url = https://github.com/crusoexia/vim-monokai.git
+[submodule "submodules/lucario"]
+	path = submodules/lucario
+	url = https://github.com/raphamorim/lucario.git
